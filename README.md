@@ -13,5 +13,5 @@ The tests run will test the following fields:
 * Location
 * All Fields
 
-All tests are unt to find the **CIS -074.-61Y** string on the loaded page
+All tests are expected to find the **CIS -074.-61Y** string on the loaded page
 
